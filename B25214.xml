@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last words and actions of John James at his execution at Tyburne the 27 of Novem. 1661 wherein you have his confession and prayer under the gallowes, immediately before his execution.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25214</idno><idno type="EEBO-CITATION">18773374</idno>
+  <idno type="VID">205338</idno>
+  <idno type="EEBO-PROQUEST">2240880603</idno>
+  
+            <idno type="STC">Wing J429</idno>
+            <idno type="OCLC">18773374</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1656:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last words and actions of John James at his execution at Tyburne the 27 of Novem. 1661 wherein you have his confession and prayer under the gallowes, immediately before his execution.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Vaughan ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James, John, d. 1661.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term type="geographic_name">Persecution --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="6" facs="tcp:205338:1"/>
+            <pb facs="tcp:205338:1"/>
+            <p>
+               <hi>The Last</hi> Words <hi>and</hi> Actions <hi>OF</hi> JOHN JAMES, <hi>At his Execution at</hi> Ty<g ref="char:EOLhyphen"/>burne, <hi>the</hi> 27. <hi>of</hi> Novem. 1661.</p>
+            <p>Wherein you have his confession and Prayer under the Gallowes, immediately before his Execution.</p>
+            <p>
+               <hi>LONDON, Printed by</hi> R. Vaughan, <hi>in</hi> S. Martins le Grand. 1661.</p>
+            <pb facs="tcp:205338:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205338:2"/>
+            <head>The Last <hi>Words</hi> and <hi>Actions of JOHN JAMES.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not trouble the Reader with any impertinent Pro<g ref="char:EOLhyphen"/>logue, but shall presently proceed in my story, (and which is more then ordinary in some Books) I shall give you a full ac<g ref="char:EOLhyphen"/>count of what I promise in my Title.</p>
+            <p>
+               <hi>John James</hi> (of whom we are to speak) was by Trade a <hi>Weaver,</hi> but leaving that, he followed the selling of <hi>Small-coale</hi> about the City and Subburbs of <hi>London;</hi> and as his judgement was, he kept the Seventh day Sabbath, which is Saturday, on which day he taught to a Congregation he had at <hi>White-Chappel,</hi>
+               <pb n="2" facs="tcp:205338:3"/> &amp; teaching them on Saturday <hi>Octob.</hi> 19. he was accused of High Treason, for which he was arraigned at the King's-Bench Bar at Westminster, and there Convicted; on Friday <hi>Nov.</hi> 22. 1661. he was there Con<g ref="char:EOLhyphen"/>demned to be Drawn, Hang'd, and Quarter<g ref="char:EOLhyphen"/>ed, which was accordingly done on Wed<g ref="char:EOLhyphen"/>nesday <hi>Nov.</hi> 27. the manner as followeth:</p>
+            <p>About ten of the Clock in the morning the Sheriff came to Newgate, where <hi>John James</hi> then was, then he was brought out and laid upon a Sledge prepared for that purpose, upon which he was Drawn to Tyburn, in his way thither several of his acquaintance threw themselves upon the Sledge, and hug<g ref="char:EOLhyphen"/>ged, kissed and embraced him, and with a<g ref="char:EOLhyphen"/>bundance of affection took their last farwell of him.</p>
+            <p>When he came to Tyburn he was set up in a Cart right under the Gallows, where stand<g ref="char:EOLhyphen"/>ing upright with his hat off, and a Sattin Cap upon his head, he addressed himself to the Sheriff (who was in his Coach close by) desiring to know what time he might have allowed him, the Sheriffe told him he might take what time he thought good in Reason, provided he spake nothing that was seditious, which he promised he should not, nor had he [as he said] the least intention or desire so to
+<pb n="3" facs="tcp:205338:3"/> doe. Then one of his friends giving him somewhat in a glasse to drink, he took it and drank, and then began his Speech in the man<g ref="char:EOLhyphen"/>ner as followeth:</p>
+            <div type="oration">
+               <p>FIrst of all, I desire to clear my self of an A<g ref="char:EOLhyphen"/>spertion cast upon me, and reported up and down, that I am a Jesuite: to which I answer, I was Born in England, &amp; never out of it since I was born; I understand no other Tongue, which will argue me very unfit to be a Jesuit; besides I am a man but of weak parts, &amp; those that are imployed for such, are commonly very learned and knowing men; I am born of very mean Parents, and I may say as <hi>Gidion</hi> did, <hi>Judges</hi> 6. 15. <hi>Behold my Family is poor, &amp;</hi> I <hi>am the least in my Fathers house:</hi> I came in<g ref="char:EOLhyphen"/>deed of a mean Family, the meanest that I know among the people of God, but my Pa<g ref="char:EOLhyphen"/>rents were very careful to have me brought up in the fear of God, yea they were so care<g ref="char:EOLhyphen"/>full that I verily think that my Father when he died had not the least to trouble his con<g ref="char:EOLhyphen"/>science for that, the like I may say of my Mo<g ref="char:EOLhyphen"/>ther who is still living and attainied to a good old age.</p>
+               <p>The second thing I shall speak of, is about my Religion, I am of that religion mentioned in the sixt of the <hi>Hebrews</hi> the second verse I am a Baptist, in which
+<pb n="4" facs="tcp:205338:4"/> way I have walked sometime: I believe the resurrection of the dead, and eternal judge<g ref="char:EOLhyphen"/>ment: I also own all the commandements, as they are laid down in the 20 Chapter of <hi>Exodus,</hi> &amp; I dare not to break one of them to save my life; I am for the seventh day sabbath, as it is commanded in the fourth Commande<g ref="char:EOLhyphen"/>ment, I do own Christs visible reign over all the Nations of the earth, and that the Lord Christ is King of all the Earth.</p>
+               <p>I did not come here to sowe sedition, something will be expected, I should say as to that whereof I am condemned, to which I say, the Lord knows as to matter of fact, I am clear of all those things for which I am here to suffer, these are the words of a dying man, tis not a time to dissemble, those witnesses that swore against me, did for<g ref="char:EOLhyphen"/>swear, yet the Lord knows I have not the least prejudice against them; before I dye yet I hope I shall pray for them, the Lord knows I wish them not the least harm▪ good Lord shew some sign, whereby the world may know mine innocencie.</p>
+               <p>One word to the people of God, good people be not discouraged at this my suffe<g ref="char:EOLhyphen"/>ring, a poor worm as I am, but continue faithful in all the ordinances of our great Captain and Leader Christ Jesus, read that place of scripture <hi>Hebrews</hi> the 10 about the middle of the Chapter.</p>
+               <pb n="5" facs="tcp:205338:4"/>
+               <p> And to all those that have not yet an in<g ref="char:EOLhyphen"/>terest in Christ, hear now the words of a dying man. First, I speak to those that are young, Remember now your Creator in the dayes of your youth, and live more up<g ref="char:EOLhyphen"/>rightly before the Lord, then you have done, and walk in his wayes and Ordinances▪ and to you that are old, It is now high time that you should leave your sins by true repent<g ref="char:EOLhyphen"/>ance and turne unto the Lord.</p>
+               <p>Then desiring some time for prayer, he prayed to this effect.</p>
+            </div>
+            <div type="prayer">
+               <p>MOst gracious Lord God in whose sight all the Nations of the Earth, is but as a drop of a Bucket, I beseech thee in mercy look upon thy poor Creature here before thee; blessed be thy holy Name, that such a poor worm as I am can call the Father, blesse the Lord O my Soul, and all that is within me, bless his holy name▪ O most sweet Father take pitty upon all those that were the cause of my comming hither, and those that have judged me, Lord do thou in mercy justify, and grant that those men that swore falsly against me, may have a true sight and feeling of their sin, Lord in much mercy look upon them, Lord I am now a comming to the, send down thy holy An<g ref="char:EOLhyphen"/>gels
+<pb n="6" facs="tcp:205338:5"/> to convey my Soul into <hi>Abrahams</hi> bosome. Lord I praise thy blessed name, for thy sweetning my journy from Newgate, sweet Father it was a blessed refreshment, sweet Lord look in much mercy upon all this people, that are gathered together to see me suffer, here is a great number, yet thou wilt send as many Angels to fetch my soul as here are people, Lord in mercy look upon this Nation of <hi>England,</hi> and upon <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and upon <hi>Ireland,</hi> the good Lord grant that thy people (though of several per<g ref="char:EOLhyphen"/>swasions) may live in love and unity to<g ref="char:EOLhyphen"/>gether, and that they may strive to excell each other, in virtue.</p>
+               <p>Then he prayed for the comming of Christ to reign upon earth, &amp; after that he prayed very earnestly for the executioner. Then the executioner asked him if he had any more to say to the people, he answered he had not, he being very weak in body was spent. then he stood a little time praying privately, and lift<g ref="char:EOLhyphen"/>ing up his hands, when he had done he gave the Shrieff thanks for his curtecie, and then told the executioner he had done, upon which he put the rope about his neck, and just as the cart was drawn off, he lift up his hands and cryed out. O Lord recieve my soul.</p>
+               <pb facs="tcp:205338:5"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
